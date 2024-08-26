@@ -1,3 +1,4 @@
+import './css/style.css';
 import Charapter from './js/Charapter';
 import Masschar from './js/Masschar';
 import Daemon from './js/Daemon';
